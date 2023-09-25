@@ -2,6 +2,14 @@
 
 Comboa is a Python program with a GUI built using Tkinter, designed specifically for Windows. It was created to enhance the workflow of in diagnostic laboratories, providing a tool to streamline various aspects of  processing samples for PCR analysis.
 
+## Screenshots
+
+![Screenshot 1](main menu with comments.png)
+*Main screen of Comboa, with service area, wells showing ID and "*" in each well indicates number of ID's entered in that well, usefull for pooling, entry menu, and Layers area showing all the ID's entered in that well.
+
+![Screenshot 2](Export menu.png)
+*Export screen of Comboa, shows ID's of the samples, and CT values. Aplification curve is presented. Automatically assigned results can be overwritten by a manual one. There is a filter to show only Positive and unknow results, Export button has a live counter on it showing the number of results that are going to be exported, and repeated.
+
 ## Key Features
 
 - **Sample Layout and Pooling:**
@@ -61,6 +69,8 @@ Comboa is a Python program with a GUI built using Tkinter, designed specifically
 Alternatively build a version for your specific purposes. 
 ELISA and other test process is possible but not described here
 
+
+
 ## Project Origins and Development
 
 Comboa was developed in-house with direct feedback from users, including the developer's own experiences as a user. It has been extensively used in at least 7 laboratories, successfully processing approximately a million test samples during Covid-19 pandemic.
@@ -76,3 +86,4 @@ Comboa is released under the [GNU General Public License (GPL)].
 ## Contact
 
 For any inquiries or assistance, feel free to contact me through github.
+
