@@ -4,7 +4,7 @@ Comboa is a Python program with a GUI built using Tkinter, designed specifically
 
 ## Screenshots
 
-![Screenshot 1](main menu with comments.png)
+![Screenshot 1](https://github.com/kolivusha/Comboa/blob/fab38b13df6d0874e6f02ea54be59e438e66079c/main%20menu%20with%20comments.png)
 *Main screen of Comboa, with service area, wells showing ID and "*" in each well indicates number of ID's entered in that well, usefull for pooling, entry menu, and Layers area showing all the ID's entered in that well.
 
 ![Screenshot 2](Export menu.png)
