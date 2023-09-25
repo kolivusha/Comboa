@@ -8,7 +8,7 @@ Comboa is a Python program with a GUI built using Tkinter, designed specifically
 *Main screen of Comboa, with service area, wells showing ID and "*" in each well indicates number of ID's entered in that well, usefull for pooling, entry menu, and Layers area showing all the ID's entered in that well.
 
 ![Screenshot 2](https://github.com/kolivusha/Comboa/blob/f8a43b6505496fce97026ae950444b27e0dcda10/Export%20menu.png)
-*Export screen of Comboa, shows ID's of the samples, and CT values. Aplification curve is presented. Automatically assigned results can be overwritten by a manual one. There is a filter to show only Positive and unknow results, Export button has a live counter on it showing the number of results that are going to be exported, and repeated.
+*Export screen of Comboa* shows ID's of the samples, and CT values. Aplification curve is presented. Automatically assigned results can be overwritten by a manual one. There is a filter to show only Positive and unknow results, Export button has a live counter on it showing the number of results that are going to be exported, and repeated.
 
 ## Key Features
 
