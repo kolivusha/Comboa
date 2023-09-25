@@ -1,0 +1,11 @@
+tk
+openpyxl
+pandas
+configparser
+clipboard
+playsound
+pygetwindow
+numpy
+natsort
+sqlalchemy
+matplotlib
