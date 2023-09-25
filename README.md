@@ -49,7 +49,7 @@ Comboa is a Python program with a GUI built using Tkinter, designed specifically
   - Automatically storing Experiment name to the copy buffer, so that it's easy to name experiment exactly the same in Gentier program
   - Auto suggesting experiment name in the format Date_Region_ExperiemntType_Number (For example 22012023_Berlin_PCR_12) experiment number suggested automatically.
 
-## Usage ( for PCR)
+## Usage (for PCR)
 
 1. Set up a config file, appropriate to the folder path required.
 2. Launch the Comboa GUI using `Comboa.exe`.
@@ -57,6 +57,9 @@ Comboa is a Python program with a GUI built using Tkinter, designed specifically
 4. Export a file to Gentier, in the Gentier program proceed with creating and completing experiment, export experiment data
 5. In Comboa press Import From Gentier, and you will be taken to the validation screen where you can assign results based on the amplification curve or other data. Confirm validation.
 6. Export final results.
+
+Alternatively build a version for your specific purposes. 
+ELISA and other test process is possible but not described here
 
 ## Project Origins and Development
 
